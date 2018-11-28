@@ -1,4 +1,4 @@
-# appli
+# bug-nuxt-axios-eslint-config
 
 This repo is to demonstrate a bug where I simply picked axios + Eslint + Vueityf.js for my  Nuxt.js project
 
@@ -14,4 +14,5 @@ $ yarn run dev
 
 ```
 
-Author: Billal Begueradj
+# Author
+Billal Begueradj
